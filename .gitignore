@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+code
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.log
+submission_ids.log
+
